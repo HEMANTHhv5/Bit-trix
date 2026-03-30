@@ -1,5 +1,3 @@
-# your testbench to ensure functionality...
-
 
 `timescale 1ns/1ps
 module top_tb;
